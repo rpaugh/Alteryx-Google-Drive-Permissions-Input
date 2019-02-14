@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Configuration>
+	<Properties>
+		<MetaInfo>
+			<Icon>Google Drive Permissions Input/Google Drive Permissions InputIcon.png</Icon>
+			<Name>Google Drive Permissions Input</Name>
+			<CategoryName>Connectors</CategoryName>
+			<ToolVersion>1.0.0</ToolVersion>
+			<Author>Rick Paugh</Author>
+			<Description>Retrieve permission details for the designated Google Drive file or folder.</Description>
+		</MetaInfo>
+	</Properties>
+</Configuration>
