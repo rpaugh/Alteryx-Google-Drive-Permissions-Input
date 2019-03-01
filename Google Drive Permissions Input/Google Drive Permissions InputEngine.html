@@ -146,7 +146,7 @@
                         Alteryx.Engine.SendMessage.Complete();
                     });
                 } else {
-                    Alteryx.Engine.SendMessage.Info("Metadata refreshed.");
+                    Alteryx.Engine.SendMessage.Complete();
                 }
             } catch (error) {
                 Alteryx.Engine.SendMessage.Error(error.message);
